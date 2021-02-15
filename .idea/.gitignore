@@ -6,3 +6,13 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+ auto-import.
+ .idea/artifacts
+ .idea/compiler.xml
+ .idea/jarRepositories.xml
+ .idea/modules.xml
+ .idea/*.iml
+ .idea/modules
+ *.iml
+ *.ipr
+ .idea/sonarlint/
